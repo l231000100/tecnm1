@@ -29,11 +29,6 @@ El sistema permite enviar el ángulo deseado (entre 0° y 180°) desde una pági
 
 El diagrama muestra las conexiones utilizadas para implementar el control del servomotor.
 
-| Cable del servo | Pin del Arduino |
-|---|---|
-| Señal (naranja/amarillo) | Pin 9 (PWM) |
-| VCC (rojo) | 5V |
-| GND (café/negro) | GND |
 
 ![Diagrama del circuito](diagrama/IMAGENLLANTA.png)
 ![Diagrama Fisico](diagrama/servomotor.png)
