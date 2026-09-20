@@ -46,13 +46,13 @@ El programa implementa un servidor web en el Arduino que recibe el ángulo desea
 
 La página web se genera dinámicamente desde el propio Arduino e incluye un slider y un campo numérico con botón de envío.
 
-[Ver código](Codigo/sevo.ino)
+[Ver código](practica/codigo/control_por_voz_r4wifi.ino)
 
 ## Reporte
 
 El reporte contiene la explicación del funcionamiento del sistema, la metodología utilizada, el análisis de los resultados y las conclusiones obtenidas durante la práctica.
 
-[Ver Reporte](Reporte/Reporte.pdf)
+[Ver Reporte](practica/reporte/Reporte_Practica_ControlPorVoz.pdf)
 
 ## Resultados
 
@@ -66,9 +66,9 @@ Los resultados permitieron comprobar el funcionamiento tanto del circuito armado
 
 El video muestra el funcionamiento del control del servomotor desde la interfaz web, incluyendo el envío del ángulo mediante el slider y el campo numérico.
 
-[Ver video](Video/video.mp4)
+[Ver video](https://youtube.com/shorts/HLTl7cOfop0?feature=share)
 
-[Ver carpeta Video](Video)
+[Ver carpeta Video](video)
 
 ## Conclusiones
 
