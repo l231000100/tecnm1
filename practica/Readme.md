@@ -36,6 +36,8 @@ El diagrama muestra las conexiones utilizadas para implementar el control del se
 | GND (café/negro) | GND |
 
 ![Diagrama del circuito](diagrama/IMAGENLLANTA.png)
+![Diagrama Fisico](diagrama/servomotor.png)
+
 
 
 [Ver carpeta Diagramas](diagrama)
