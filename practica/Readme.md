@@ -46,13 +46,13 @@ El programa implementa un servidor web en el Arduino que recibe el ángulo desea
 
 La página web se genera dinámicamente desde el propio Arduino e incluye un slider y un campo numérico con botón de envío.
 
-[Ver código](practica/codigo/control_por_voz_r4wifi.ino)
+[Ver código](codigo/control_por_voz_r4wifi.ino)
 
 ## Reporte
 
 El reporte contiene la explicación del funcionamiento del sistema, la metodología utilizada, el análisis de los resultados y las conclusiones obtenidas durante la práctica.
 
-[Ver Reporte](practica/reporte/Reporte_Practica_ControlPorVoz.pdf)
+[Ver Reporte](reporte/Reporte_Practica_ControlPorVoz.pdf)
 
 ## Resultados
 
